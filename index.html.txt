@@ -4,7 +4,7 @@
 
 	<head>
 
-		
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
 
 	</head>
 
@@ -47,13 +47,14 @@
 			<div class="panel-heading">
 
 	    		<h3 class="panel-title">
+				2222222222
 				Rozproszony system kontroli wersji.
 			</h3>
 
 	  		</div>
 
 	  		<div class="panel-body">
-
+				2222222222222
 		    	W rozproszonych systemach kontroli wersji (takich jak Git, Mercurial, Bazaar lub Darcs) klienci nie dostaj¹ dostêpu jedynie do najnowszych wersji plików ale w pe³ni kopiuj¹ ca³e repozytorium. Gdy jeden z serwerów, u¿ywanych przez te systemy do wspó³pracy, ulegnie awarii, repozytorium ka¿dego klienta mo¿e zostaæ po prostu skopiowane na ten serwer w celu przywrócenia go do pracy.
 
 
