@@ -4,7 +4,8 @@
 
 	<head>
 
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
+	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	</head>
 
@@ -88,9 +89,7 @@
 
 		<footer  class="navbar">
 
-			Opracowane na zajêciach "Podstawy systemu Git" w ramach laboratorium z Podstaw In¿ynierii Oprogramowania w <a href="http://www.iis.p.lodz.pl/">Instytucie Informatyki Stosowanej P£</a>
-
-
+			Page footer
 
 		</footer>
 
